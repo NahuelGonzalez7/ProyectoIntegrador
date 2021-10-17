@@ -1,0 +1,13 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\bin\Debug\WindowsPracticaExtra.exe.config
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\bin\Debug\WindowsPracticaExtra.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\bin\Debug\WindowsPracticaExtra.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\bin\Debug\LibreriaEntidades.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\bin\Debug\LibreriaEntidades.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\obj\Debug\WinAppLibros.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\obj\Debug\WindowsPracticaExtra.Form1.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\obj\Debug\WindowsPracticaExtra.Properties.Resources.resources
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\obj\Debug\WinAppLibros.csproj.GenerateResource.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\obj\Debug\WinAppLibros.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\obj\Debug\WinAppLibros.csproj.CopyComplete
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\obj\Debug\WindowsPracticaExtra.exe
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\Practica Extra\slnLibros\WindowsPracticaExtra\obj\Debug\WindowsPracticaExtra.pdb

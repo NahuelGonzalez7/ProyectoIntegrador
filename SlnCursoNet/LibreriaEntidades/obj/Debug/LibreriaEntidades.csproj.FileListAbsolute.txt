@@ -1,0 +1,6 @@
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\SlnCursoNet\LibreriaEntidades\bin\Debug\LibreriaEntidades.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\SlnCursoNet\LibreriaEntidades\bin\Debug\LibreriaEntidades.pdb
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\SlnCursoNet\LibreriaEntidades\obj\Debug\LibreriaEntidades.csproj.AssemblyReference.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\SlnCursoNet\LibreriaEntidades\obj\Debug\LibreriaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\SlnCursoNet\LibreriaEntidades\obj\Debug\LibreriaEntidades.dll
+C:\Users\Nahuel\Desktop\Nahuel\Programacion\Curso C#\Tercera Parte C#\Practica 01 - 14-10\SlnCursoNet\LibreriaEntidades\obj\Debug\LibreriaEntidades.pdb
